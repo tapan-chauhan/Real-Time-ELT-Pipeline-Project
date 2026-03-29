@@ -1,4 +1,4 @@
-this code we have to write in order to attach azure and databrics together 
+#this code we have to write in order to attach azure and databrics together 
 spark.conf.set(
   "fs.azure.account.auth.type.salesprojectdatalake1.dfs.core.windows.net",
   "OAuth"
